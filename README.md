@@ -1,1 +1,0 @@
-# Freshness-Of-Food-Detection
